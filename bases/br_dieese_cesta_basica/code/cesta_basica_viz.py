@@ -32,7 +32,7 @@ fig.write_image("../images/gasto_mensal.png")
 
 
 fig = px.line(gn, x="data", y="horas_de_trabalho", color='cidade', 
-              title="Horas de trabalho necessárias ao indivíduo que ganha salário mínimo, para adquirir a Cesta Basica de Alimentos")
+              title="Horas de trabalho necessárias ao indivíduo que ganha salário mínimo, <br>para adquirir a Cesta Basica de Alimentos")
 #fig.show()
 fig.write_image("../images/horas_de_trabalho.png")
 
@@ -50,7 +50,7 @@ fig.write_image("../images/gasto_mensal_velha.png")
 
 
 fig = px.line(gv, x="data", y="horas_de_trabalho", color='cidade', 
-              title="Horas de trabalho necessárias ao indivíduo que ganha salário mínimo, para adquirir a Cesta Basica de Alimentos <br>Metodologia Velha")
+              title="Horas de trabalho necessárias ao indivíduo que ganha salário mínimo, <br>para adquirir a Cesta Basica de Alimentos <br>Metodologia Velha")
 #fig.show()
 fig.write_image("../images/horas_de_trabalho_velha.png")
 
