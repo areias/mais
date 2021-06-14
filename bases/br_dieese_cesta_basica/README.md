@@ -10,8 +10,8 @@ O Departamento Intersindical de Estatística e Estudos Socioeconômicos (DIEESE)
 Todo o código usado na captura está em `code/`
 
 
-![](../image/gasto_mensal.png)
+![](images/gasto_mensal.png)
 
 
-![](../images/horas_de_trabalho.png)
+![](/images/horas_de_trabalho.png)
 
