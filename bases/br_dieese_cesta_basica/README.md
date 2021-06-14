@@ -13,5 +13,5 @@ Todo o código usado na captura está em `code/`
 ![](images/gasto_mensal.png)
 
 
-![](/images/horas_de_trabalho.png)
+![](images/horas_de_trabalho.png)
 
